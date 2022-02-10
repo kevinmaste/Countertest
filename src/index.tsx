@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from "./countdown";
+import Countdown from "./countdown";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App/>
+    <Countdown/>
   </React.StrictMode>,
   document.getElementById('root')
 );
