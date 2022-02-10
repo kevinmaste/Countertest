@@ -1,3 +1,12 @@
+
+## Visualiser le Resustat du code
+
+### `Astuces` :
+Vous avez mon repository : https://github.com/kevinmaste/Countertest/
+Ce que vous devez faire c'est ajouter box après GitHub.
+Ce qui veut dire https://githubbox.com/kevinmaste/Countertest/
+Patientez et vous verrez.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
